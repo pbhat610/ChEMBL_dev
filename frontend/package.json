@@ -18,11 +18,15 @@
     "ag-grid-community": "^33.0.4",
     "ag-grid-react": "^33.0.4",
     "axios": "^1.7.9",
+    "chart.js": "^4.4.7",
+    "d3": "^7.9.0",
     "material-react-table": "^3.1.0",
     "openchemlib": "^8.18.1",
     "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.0",
     "react-dom": "^19.0.0",
-    "react-router-dom": "^6.29.0"
+    "react-router-dom": "^6.29.0",
+    "socket.io-client": "^4.8.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",

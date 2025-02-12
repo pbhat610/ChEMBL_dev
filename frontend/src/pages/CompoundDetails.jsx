@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import { Box, Typography, CircularProgress, Paper, Grid } from "@mui/material";
 
-// Import OpenChemLib 2D Molecular Viewer
+
 import OCL from "openchemlib/full";
 
 const CompoundDetails = () => {
